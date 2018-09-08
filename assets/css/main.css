@@ -55,6 +55,10 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+img.article{
+	width: 100%;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
